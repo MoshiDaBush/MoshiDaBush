@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently a student at Central University of Technology,Free State.
+- 💬 INFORMATION TECHNOLOGY : SOFTWARE 
+- - 🔭 I’m web & app Dev
 <!--
 **MoshiDaBush/MoshiDaBush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

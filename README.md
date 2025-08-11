@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🌱  Central University of Technology,Free State.
 - 💬 INFORMATION TECHNOLOGY : SOFTWARE NQF 5
-- THE REST IS HISTORY 
-- - 🔭 I’m web & app Dev
+- 
+- - 🔭 IoT Enthusiast
 <!--
 **MoshiDaBush/MoshiDaBush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

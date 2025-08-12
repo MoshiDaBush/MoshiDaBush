@@ -1,4 +1,4 @@
-![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c626f6f7473747261702c6d75692c68746d6c2c6373732c7673636f64652c6769746875622c6669676d612c7461696c77696e642c6769742c72](https://github.com/user-attachments/assets/3c33d8f3-b0aa-4b75-ae82-781fe942fe4a)### Hi there 👋
+https://github.com/user-attachments/assets/3c33d8f3-b0aa-4b75-ae82-781fe942fe4a)### Hi there 👋
 - 🌱  Central University of Technology,Free State.
 - 💬 INFORMATION TECHNOLOGY : SOFTWARE NQF 5
 - ![Uploading 

@@ -6,7 +6,7 @@ Hi there 👋 I'm Tankiso Gabudi,
 AI enthusiast (Developer/Programmer)
 - 🌱  Central University of Technology,Free State.
 - 💬 INFORMATION TECHNOLOGY : SOFTWARE NQF 5
-![Uploading 
+  
   <svg width="610.5" height="48" viewBox="0 0 3256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
       
